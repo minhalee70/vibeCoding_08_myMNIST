@@ -1,0 +1,19 @@
+{
+  "name": "handwritten-digit-recognizer",
+  "version": "1.0.0",
+  "description": "손글씨 숫자 AI 인식기 웹 애플리케이션",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mnist",
+    "handwriting",
+    "tensorflowjs",
+    "ai",
+    "digit-recognition"
+  ],
+  "author": "",
+  "license": "MIT"
+}
